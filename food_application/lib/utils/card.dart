@@ -24,7 +24,7 @@ class myCard extends StatelessWidget {
                     topRight: Radius.circular(10.0),
                   ),
                   child: Image.asset(
-                    path, // Replace with your asset image path
+                    path,
                     height: 100,
                     width: 212,
                     fit: BoxFit.cover,
